@@ -3,6 +3,10 @@
 <p>A mini project that aims to calculate the Compound Interest by just adding the values to the webpage. This Project does complex calculations within few seconds, making user's work easier.</p>
 <br>
 
+You can test in
+<a href="https://leonelpalma.github.io/Compound-Interest-Calculator/" target="_blank">Calculate Now!</a>
+<br>
+
 <h2 id="tech-stack-used">Tech Stack Used</h2>
 <br>
 
@@ -37,3 +41,7 @@ Without even knowing the formula and doing math, you can now calculate Compound 
 	<br><br>
 	<img src="https://user-images.githubusercontent.com/67221487/125161252-de901900-e19e-11eb-8ed3-32032b93b56d.png" alt="image">
 </p>
+
+I hope you like it... Contact me later, ok?
+
+©2025 All rights reserved. | Designed by Leonel Palma
